@@ -1,3 +1,3 @@
 # Adrijan Parmakovski
 
-Location: :de: {{ site.data.about.location }}
+Location: {{ site.data.about.location }}
