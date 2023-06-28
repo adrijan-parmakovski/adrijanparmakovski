@@ -1,0 +1,46 @@
+- job_title: BI Data Engineer
+  company: HeyCar GmbH
+  duration: "2022-03 - present"
+  company_url: https://hey.car/
+  company_location: ":de: Berlin, Germany"
+  description:
+    - Maintaining the existing ETL pipelines and creating new ones
+    - Maintaining the BI Data Warehouse (_Snowflake_) and ETL pipeline resources with Terraform & Airflow
+    - Developing an automatic ELT pipeline and DML query generation
+    
+- job_title: Business Intelligence Engineer
+  company: Gymondo GmbH
+  duration: "2019-08 - 2022-02"
+  company_url: https://www.gymondo.com/en/
+  company_location: ":de: Berlin, Germany"
+  description:
+    - Led a year-long migration of the BI Data Warehouse and ETL jobs from a local in-house Postgresql database and CRON jobs to a cloud solution with Airflow and Google BigQuery
+    - Reduced the execution time from 9h -> 1.5h
+    - Maintaining and scaling the infrastructure and warehouse; standardisation of the BI infrastructure
+    - Building new APIs to combine data from different marketing & tracking sources
+
+- job_title: Business Intelligence & Yield Manager
+  company: PubNative GmbH (_now known as Verve Group_)
+  duration: "2016-03 - 2019-08"
+  company_url: https://verve.com/
+  company_location: ":de: Berlin, Germany"
+  description:
+    - Started as an intern, and was promoted all the way to a Senior Manager; migrated from a more Analysis-focused to a more Engineering-focused role
+    - Helped the relevant stake holders with a top-level overview of the business and traffic, as well as ad-hoc reporting and projects to increase revenue streams
+    - Learned Python & SQl on the job to deal with the scaling the data for analysis
+
+- job_title: 
+  company:
+  company_url:
+  company_location: 
+  description:
+    - asdfasdf
+    - asdfasdf
+
+- job_title: 
+  company:
+  company_url:
+  company_location: 
+  description:
+    - asdfasdf
+    - asdfasdf
