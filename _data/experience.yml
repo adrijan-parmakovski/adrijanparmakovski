@@ -2,7 +2,7 @@
   company: HeyCar GmbH
   duration: "2022-03 - present"
   company_url: https://hey.car/
-  company_location: ":de: Berlin, Germany"
+  company_location: Berlin, Germany
   description:
     - Maintaining the existing ETL pipelines and creating new ones
     - Maintaining the BI Data Warehouse (_Snowflake_) and ETL pipeline resources with Terraform & Airflow
@@ -12,7 +12,7 @@
   company: Gymondo GmbH
   duration: "2019-08 - 2022-02"
   company_url: https://www.gymondo.com/en/
-  company_location: ":de: Berlin, Germany"
+  company_location: Berlin, Germany
   description:
     - Led a year-long migration of the BI Data Warehouse and ETL jobs from a local in-house Postgresql database and CRON jobs to a cloud solution with Airflow and Google BigQuery
     - Reduced the execution time from 9h -> 1.5h
@@ -23,24 +23,18 @@
   company: PubNative GmbH (_now known as Verve Group_)
   duration: "2016-03 - 2019-08"
   company_url: https://verve.com/
-  company_location: ":de: Berlin, Germany"
+  company_location: Berlin, Germany
   description:
     - Started as an intern, and was promoted all the way to a Senior Manager; migrated from a more Analysis-focused to a more Engineering-focused role
     - Helped the relevant stake holders with a top-level overview of the business and traffic, as well as ad-hoc reporting and projects to increase revenue streams
     - Learned Python & SQl on the job to deal with the scaling the data for analysis
+    - Helped setup a new reporting tool (Chartio_), ETL processes, and a business alert system
 
-- job_title: 
-  company:
-  company_url:
-  company_location: 
+- job_title: Business Intelligence intern
+  company: HomeToGo GmbH
+  duration: "2015-09 - 2016-02"
+  company_url: https://www.hometogo.de/
+  company_location: Berlin, Germany
   description:
-    - asdfasdf
-    - asdfasdf
-
-- job_title: 
-  company:
-  company_url:
-  company_location: 
-  description:
-    - asdfasdf
-    - asdfasdf
+    - Worked on delivering and improving the KPI, UX, and ROAS reports to Management
+    - Set up infrastructure in R to vastly improve delivery speed of the aforementioned reports
