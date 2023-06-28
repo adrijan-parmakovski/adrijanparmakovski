@@ -1,3 +1,7 @@
 theme: jekyll-theme-minimal
 title: Adrijan Parmakovski
 description: A webpage containing my CV
+
+# URLs
+linkedin_url: www.linkedin.com/in/
+github_url: https://github.com/
