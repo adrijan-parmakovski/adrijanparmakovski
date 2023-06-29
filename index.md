@@ -11,9 +11,9 @@
 
 {% for job_role in site.data.experience %}
 <p style="text-align:left;">
-    <font size="2"><b>{{ job_role.job_title }} @ [<i>{{ job_role.company }}</i>]({{ job_role.company_url }}), <i>{{ job_role.company_location }}</i></b></font>
+    <font size="2"><b>{{ job_role.job_title }} @ <a href="{{ job_role.company_url }}"><i>{{ job_role.company }}</i></a>, <i>{{ job_role.company_location }}</i></b></font>
     <span style="float:right;">
-        <font size="2"><b><i>{ job_role.duration }}</i></b></font>
+        <font size="2"><b><i>{{ job_role.duration }}</i></b></font>
     </span>
 </p>
 <br>
