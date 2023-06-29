@@ -20,3 +20,4 @@
 {% for bullet_point in job_role.description %}
 * {{ bullet_point }}<br>
 {% endfor %}
+{% endfor %}
