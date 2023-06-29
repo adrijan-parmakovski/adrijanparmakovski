@@ -16,8 +16,7 @@
         <font size="2"><b><i>{{ job_role.duration }}</i></b></font>
     </span>
 </p>
-<br>
 {% for bullet_point in job_role.description %}
-* {{ bullet_point }}<br>
+* {{ bullet_point }}
 {% endfor %}
 {% endfor %}
