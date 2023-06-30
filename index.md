@@ -18,6 +18,23 @@
     </span>
 </p>
 {% for bullet_point in job_role.description %}
-* {{ bullet_point }}
+- {{ bullet_point }}
+{% endfor %}
+{% endfor %}
+
+---
+
+## Education
+
+{% for uni in site.data.education %}
+<p style="text-align:left;">
+    <b>{{ uni.degree }}</b><br>
+    <b><a href="{{ uni.university_url }}"><i>{{ uni.university_name }}</i></a></b>
+    <span style="float:right;">
+        <b><i>{{ uni.duration }}</i></b>
+    </span>
+</p>
+{% for bullet_point in uni.description %}
+- {{ bullet_point }}
 {% endfor %}
 {% endfor %}

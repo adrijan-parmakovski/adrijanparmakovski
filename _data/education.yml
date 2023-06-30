@@ -1,5 +1,6 @@
-- university_name: Jacobs University Bremen
+- university_name: Jacobs University Bremen (Constructor University)
   degree: "B.S. in Applied and Computational Mathematics"
+  university_url: https://constructor.university/
   location: Bremen, Germany
   description:
     - Degree in Applied Mathematics, with courses such as Linear Algebra, Calculus, Accounting, Statistics (with R), as well as mathematical theory
