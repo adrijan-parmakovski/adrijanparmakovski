@@ -17,9 +17,11 @@
         <b><i>{{ job_role.duration }}</i></b>
     </span>
 </p>
+<ul>
 {% for bullet_point in job_role.description %}
-- {{ bullet_point }}
+<li>{{ bullet_point }}</li>
 {% endfor %}
+</ul>
 {% endfor %}
 
 ---
@@ -34,7 +36,9 @@
         <b><i>{{ uni.duration }}</i></b>
     </span>
 </p>
+<ul>
 {% for bullet_point in uni.description %}
-- {{ bullet_point }}
+<li>{{ bullet_point }}</li>
 {% endfor %}
+</ul>
 {% endfor %}
