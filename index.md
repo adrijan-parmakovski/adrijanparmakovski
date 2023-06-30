@@ -11,8 +11,8 @@
 
 {% for job_role in site.data.experience %}
 <p style="text-align:left;">
-    <b>{{ job_role.job_title }}</b></br>
-    <b><a href="{{ job_role.company_url }}"><i>{{ job_role.company }}</i></a></i></b>
+    <b>{{ job_role.job_title }}</b><br>
+    <b><a href="{{ job_role.company_url }}"><i>{{ job_role.company }}</i></a></b>
     <span style="float:right;">
         <b><i>{{ job_role.duration }}</i></b>
     </span>
